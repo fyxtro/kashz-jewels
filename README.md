@@ -6,9 +6,7 @@ description: a welcome README page
 
 ## UPDATES
 
-* 12/20/2021: I am PNPT Certified :trophy:.
-* 11/01/2021: I am OSCP Certified :trophy:
-  . [My reddit post](https://www.reddit.com/r/oscp/comments/qlay94/passed\_oscp\_my\_thoughts/).
+* 09/03/24: I am almost PNPT Certified :trophy:.
 
 ## <mark style="color:blue;">About this book</mark>
 
